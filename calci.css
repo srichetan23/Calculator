@@ -1,0 +1,27 @@
+.button{
+    padding: 5px 5px;
+    margin: 0 3px;
+    border-radius: 15px;
+    box-shadow: 3px;
+}
+/* html,body{
+    height: 100%;
+    width: 100%;
+} */
+.row{
+    margin: 8px 0;
+}
+/* .data{
+    width: 0 100px;
+    max-width: 0 50px;
+} */
+/* .total{
+    width: 200px 200px;
+} */
+.container{
+    max-width: 50%;
+    margin-top: 3px;
+}
+
+
+
